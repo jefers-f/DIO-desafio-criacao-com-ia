@@ -16,4 +16,6 @@ Voicely
 - Utilização do VideoScribe para criação do video
 - Utilização do Voicely para transformação do texto da história em voz
 
-
+## 🚀 Resultados
+O resultado pode ser visto no youtube:
+https://www.youtube.com/watch?v=pnp9oDhdrMg
